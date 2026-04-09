@@ -1,5 +1,9 @@
 # Cash Applications Executive Dashboard (Power BI)
 
+## 🎯 Problem Statement
+Cash Applications teams often rely on multiple reports to track performance, identify risks, and analyze root causes.  
+This project aims to provide a unified dashboard to enable faster decision-making and operational efficiency.
+
 ## 📊 Overview
 This project showcases an end-to-end Power BI dashboard designed to monitor Cash Applications performance, identify risk, and analyze root causes of suspended cash.
 
@@ -27,16 +31,22 @@ This project showcases an end-to-end Power BI dashboard designed to monitor Cash
 ## 📸 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](Cash Apps Executive Summary.png)
+![Executive Summary](executive-summary.png)
 
 ### Live Cash Performance
-![Live Cash Performance](Live Cash Performance.png)
+![Live Cash Performance](live-cash-performance.png)
 
 ### Suspended Cash Analysis
-![Suspended Cash Analysis](Suspended Cash Analysis.png)
+![Suspended Cash Analysis](suspended-cash-analysis.png)
 
 ### Client Drill-through
-![Client Drill-through](Live Cash Performance Client Drill through.png)
+![Client Drill-through](client-drillthrough.png)
 
 ## 🎯 Business Impact
 This dashboard enables better decision-making by highlighting risk areas, identifying key drivers, and providing actionable insights for process improvement.
+
+## 🧠 Learnings
+- Designed business-driven KPIs for operational monitoring  
+- Implemented DAX measures for WoW and contribution analysis  
+- Built drill-through and tooltips for enhanced user experience  
+- Focused on storytelling through data visualization  
