@@ -28,7 +28,6 @@ This project showcases an end-to-end Power BI dashboard designed to monitor Cash
 - Drill-through & Tooltips
 
 ## 📸 Dashboard Preview
-## 📸 Dashboard Preview
 
 ### Executive Summary
 ![Executive Summary](executive-summary.png)
