@@ -49,3 +49,6 @@ This dashboard enables better decision-making by highlighting risk areas, identi
 - Implemented DAX measures for WoW and contribution analysis  
 - Built drill-through and tooltips for enhanced user experience  
 - Focused on storytelling through data visualization  
+
+## ⚠️ Note
+This project uses sample/demo data for analytical purposes.
