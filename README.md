@@ -24,7 +24,19 @@ This project showcases an end-to-end Power BI dashboard designed to monitor Cash
 - Drill-through & Tooltips
 
 ## 📸 Dashboard Preview
-(Insert screenshots here)
+## 📸 Dashboard Preview
+
+### Executive Summary
+![Executive Summary](Cash Apps Executive Summary.png)
+
+### Live Cash Performance
+![Live Cash Performance](Live Cash Performance.png)
+
+### Suspended Cash Analysis
+![Suspended Cash Analysis](Suspended Cash Analysis.png)
+
+### Client Drill-through
+![Client Drill-through](Live Cash Performance Client Drill through.png)
 
 ## 🎯 Business Impact
 This dashboard enables better decision-making by highlighting risk areas, identifying key drivers, and providing actionable insights for process improvement.
